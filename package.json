@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airdropinsiders/Naoris-Auto-Bot.git"
+    "url": "git+https://github.com/PCRchannel/Naoris-PCR.git"
   },
   "keywords": [
     "naoris",
@@ -20,10 +20,10 @@
     "heartbeat",
     "crypto"
   ],
-  "author": "airdropinsiders",
+  "author": "pejuangcriptorecehan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airdropinsiders/Naoris-Auto-Bot/issues"
+    "url": "https://github.com/PCRchannel/Naoris-PCR/issues"
   },
   "homepage": "https://github.com/airdropinsiders/Naoris-Auto-Bot#readme",
   "dependencies": {
