@@ -1,3 +1,7 @@
+# Register Naoris
+Use referral code 46eTBdlNNN9zLpDM for extra points.
+https://naorisprotocol.network/testnet 
+
 # Naoris Auto Bot
 
 Naoris Auto Bot is an automated bot designed to interact with the Naoris Protocol network. It sends periodic heartbeats, toggles device states, and fetches wallet details for multiple accounts. This bot supports proxy usage for secure and reliable connections.
