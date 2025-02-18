@@ -36,12 +36,14 @@ Naoris Auto Bot is an automated bot designed to interact with the Naoris Protoco
    ```
    [
     {
-        "walletAddress": "0xYourWalletAddress1",
-        "token": "YourToken1"
+        "walletAddress": "xxxxx",
+        "token": "xxxxx",
+        "deviceHash": "xxxxx"
     },
     {
-        "walletAddress": "0xYourWalletAddress2",
-        "token": "YourToken2"
+        "walletAddress": "xxxxx",
+        "token": "xxxxx",
+        "deviceHash": "xxxxx"
     }
    ]
    ```
@@ -54,55 +56,4 @@ Naoris Auto Bot is an automated bot designed to interact with the Naoris Protoco
    ```
    npm run start
    ```
-
-## Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-
-Create a new branch for your feature or bugfix.
-
-Commit your changes.
-
-Push your branch and open a pull request.
-
-
-
-## `new` How to run with PM2
-before run with PM2 make sure your bots run well, so we can try this PM2
-
-install PM2 as global, so you won't install again if you use new bots
-```bash
-npm install pm2 -g
-```
-
-once installed you can run with
-```bash
-npm run pm2
-```
-
-
-<hr>
-
-## __cheatsheet about PM2__
-
-- *Check how many bots running*
-```bash
-pm2 list
-```
-- *Check logs with specific running bots*
-```bash
-pm2 logs [id]
-```
-- *Stopping bots from pm2*
-```bash
-pm2 stop [id]
-```
-- *Restarting bots*
-```bash
-pm2 reload [id]
-```
-- *Delete running bots*
-```bash
-pm2 detele [id]
-```
+   
